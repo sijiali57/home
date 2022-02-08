@@ -1,0 +1,28 @@
+theme: jekyll-theme-slate
+
+# Setup
+title:            Sijia's Blog
+tagline:          'Towards Data Scientist'
+description:      'Everyday learn something new!'
+baseurl:          https://sijiali57.github.io/blog
+url:              https://sijiali57.github.io/blog
+
+author:
+  name:           'Sijia Li'
+  url:            https://github.com/sijiali57
+  # email:          xxx
+  # home:           https://
+
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Page Settings
+sidebar_home_link:  true
+paginate:         10
+
+plugins:
+- jekyll-feed
+- jekyll-gist
+- jekyll-paginate
+- jekyll-postfiles
