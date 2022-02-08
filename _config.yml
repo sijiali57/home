@@ -4,8 +4,8 @@ theme: jekyll-theme-slate
 title:            Sijia's Blog
 tagline:          'Towards Data Scientist'
 description:      'Everyday learn something new!'
-baseurl:          https://sijiali57.github.io/home
-url:              https://sijiali57.github.io/home
+baseurl:          https://sijiali57.github.io/tech-notes
+url:              https://sijiali57.github.io/tech-notes
 
 author:
   name:           'Sijia Li'
