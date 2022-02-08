@@ -25,10 +25,10 @@ layout: default
     {% if post.excerpt %}
       {% comment %}Excerpt may be equal to content. Check.{% endcomment %}
       {% capture content_words %}
-        {{ post.content | markdownify | strip_html | truncatewords: 50 }}
+        {{ post.content | markdownify | strip_html | truncatewords: 100 }}
       {% endcapture %}
       {% capture excerpt_words %}
-        {{ post.content | markdownify | strip_html | truncatewords: 50 }}
+        {{ post.content | markdownify | strip_html | truncatewords: 100 }}
       {% endcapture %}
 
       {% if content_words != excerpt_words %}
