@@ -10,7 +10,6 @@ tags:
   - Analysis
 ---
 
--------------------
 **Market Basket Analysis**
 
 Package: mlxtend
