@@ -1,7 +1,6 @@
 ---
 layout: post
 title:   "Feature Engineering Techniques"
-excerpt: "Pyspark basic calculation"
 date: 2022-3-2
 categories:
   - Pandas
